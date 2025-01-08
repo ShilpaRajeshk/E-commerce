@@ -1,10 +1,8 @@
-FROM python:3.6-slim-buster
+FROM python:3.12
 
-ENV CONTAINER_HOME=/var/www
+WORKDIR /app
+ADD . .
 
-ADD . $CONTAINER_HOME
-WORKDIR $CONTAINER_HOME
-
-RUN pip install -r $CONTAINER_HOME/requirements.txt
+RUN pip install -r requirements.txt
 
 
