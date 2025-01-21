@@ -3,6 +3,12 @@ from flask_sqlalchemy import SQLAlchemy
 from os import environ
 
 app = Flask(__name__)
+@app.route('/')
+def home():
+    return "Hello from Bengaluru!"
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8000)
 # app.config['SQLALCHEMY_DATABASE_URI'] = environ.get('DB_URL')
 # db = SQLAlchemy(app)
 
