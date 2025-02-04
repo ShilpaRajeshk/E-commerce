@@ -1,11 +1,16 @@
 from flask import Flask, request, jsonify, make_response
 from flask_sqlalchemy import SQLAlchemy
 from os import environ
+from redis import Redis
 
 app = Flask(__name__)
+redis = Redis(host='redis', port=6379)
+
 @app.route('/')
 def home():
-    return "Hello from Bengaluru!"
+    redis.incr('hits')
+    counter = str(redis.get('hits'),'utf-8')
+    return "Hello from Bengaluru!, This webpage has been viewed "+counter+" time"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8000)

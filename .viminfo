@@ -11,16 +11,16 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0~/\<app\>
+~MSle0~/\<app\>
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1737505913,,"wq"
+|2,0,1738748966,,"wq"
 :q
-|2,0,1737505346,,"q"
+|2,0,1738748756,,"q"
 :q!
 |2,0,1737335216,,"q!"
 :qa
@@ -31,10 +31,10 @@ $
 |2,0,1737182609,,"WQ"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1738748646,,"@$"
 ? \<app\>
 |2,1,1737333035,,"\\<app\\>"
-? @$
-|2,1,1737274336,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -45,236 +45,274 @@ $
 # Registers:
 ""0	CHAR	0
 	#
-|3,1,0,0,1,0,1737274336,"#"
+|3,1,0,0,1,0,1738748646,"#"
 "-	CHAR	0
 	#
 |3,0,36,0,1,0,1737182466,"#"
 
 # File marks:
-'0  1  0  ~/E-commerce/app.py
-|4,48,1,0,1737506018,"~/E-commerce/app.py"
-'1  14  4  ~/E-commerce/default.conf
-|4,49,14,4,1737505913,"~/E-commerce/default.conf"
-'2  14  0  ~/E-commerce/app.py
-|4,50,14,0,1737505768,"~/E-commerce/app.py"
-'3  89  75  ~/E-commerce/app.py
-|4,51,89,75,1737505574,"~/E-commerce/app.py"
-'4  91  75  ~/E-commerce/app.py
-|4,52,91,75,1737505574,"~/E-commerce/app.py"
-'5  1  0  ~/E-commerce/app.py
-|4,53,1,0,1737505346,"~/E-commerce/app.py"
-'6  6  0  ~/E-commerce/app.py
-|4,54,6,0,1737505346,"~/E-commerce/app.py"
-'7  1  0  ~/E-commerce/app.py
-|4,55,1,0,1737505346,"~/E-commerce/app.py"
-'8  6  0  ~/E-commerce/app.py
-|4,56,6,0,1737505346,"~/E-commerce/app.py"
-'9  1  4  ~/E-commerce/default.conf
-|4,57,1,4,1737505308,"~/E-commerce/default.conf"
+'0  28  17  ~/docker-compose.yml
+|4,48,28,17,1738748966,"~/docker-compose.yml"
+'1  17  14  ~/docker-compose.yml
+|4,49,17,14,1738748873,"~/docker-compose.yml"
+'2  17  14  ~/docker-compose.yml
+|4,50,17,14,1738748873,"~/docker-compose.yml"
+'3  1  0  ~/default.conf
+|4,51,1,0,1738748756,"~/default.conf"
+'4  8  0  ~/nginx
+|4,52,8,0,1738748651,"~/nginx"
+'5  15  15  ~/docker-compose.yml
+|4,53,15,15,1738748019,"~/docker-compose.yml"
+'6  15  15  ~/docker-compose.yml
+|4,54,15,15,1738748019,"~/docker-compose.yml"
+'7  15  15  ~/docker-compose.yml
+|4,55,15,15,1738748019,"~/docker-compose.yml"
+'8  15  15  ~/docker-compose.yml
+|4,56,15,15,1738748019,"~/docker-compose.yml"
+'9  1  0  ~/default.conf
+|4,57,1,0,1738747966,"~/default.conf"
 
 # Jumplist (newest first):
--'  1  0  ~/E-commerce/app.py
-|4,39,1,0,1737506018,"~/E-commerce/app.py"
--'  14  4  ~/E-commerce/default.conf
-|4,39,14,4,1737505913,"~/E-commerce/default.conf"
--'  1  4  ~/E-commerce/default.conf
-|4,39,1,4,1737505879,"~/E-commerce/default.conf"
--'  14  0  ~/E-commerce/app.py
-|4,39,14,0,1737505768,"~/E-commerce/app.py"
--'  14  0  ~/E-commerce/app.py
-|4,39,14,0,1737505768,"~/E-commerce/app.py"
--'  52  0  ~/E-commerce/app.py
-|4,39,52,0,1737505714,"~/E-commerce/app.py"
--'  52  0  ~/E-commerce/app.py
-|4,39,52,0,1737505714,"~/E-commerce/app.py"
--'  89  75  ~/E-commerce/app.py
-|4,39,89,75,1737505574,"~/E-commerce/app.py"
--'  91  75  ~/E-commerce/app.py
-|4,39,91,75,1737505574,"~/E-commerce/app.py"
--'  89  75  ~/E-commerce/app.py
-|4,39,89,75,1737505574,"~/E-commerce/app.py"
--'  91  75  ~/E-commerce/app.py
-|4,39,91,75,1737505574,"~/E-commerce/app.py"
--'  1  0  ~/E-commerce/app.py
-|4,39,1,0,1737505481,"~/E-commerce/app.py"
--'  1  0  ~/E-commerce/app.py
-|4,39,1,0,1737505481,"~/E-commerce/app.py"
--'  1  0  ~/E-commerce/app.py
-|4,39,1,0,1737505481,"~/E-commerce/app.py"
--'  1  0  ~/E-commerce/app.py
-|4,39,1,0,1737505481,"~/E-commerce/app.py"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505346,"~/E-commerce/app.py"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505346,"~/E-commerce/app.py"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505346,"~/E-commerce/app.py"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505346,"~/E-commerce/app.py"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  15  4  ~/E-commerce/default.conf
-|4,39,15,4,1737505308,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737505060,"~/E-commerce/default.conf"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505016,"~/E-commerce/app.py"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505016,"~/E-commerce/app.py"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505016,"~/E-commerce/app.py"
--'  6  0  ~/E-commerce/app.py
-|4,39,6,0,1737505016,"~/E-commerce/app.py"
--'  32  0  ~/E-commerce/app.py
-|4,39,32,0,1737504620,"~/E-commerce/app.py"
--'  34  0  ~/E-commerce/app.py
-|4,39,34,0,1737504620,"~/E-commerce/app.py"
--'  34  0  ~/E-commerce/app.py
-|4,39,34,0,1737504620,"~/E-commerce/app.py"
--'  34  0  ~/E-commerce/app.py
-|4,39,34,0,1737504620,"~/E-commerce/app.py"
--'  32  0  ~/E-commerce/app.py
-|4,39,32,0,1737504620,"~/E-commerce/app.py"
--'  34  0  ~/E-commerce/app.py
-|4,39,34,0,1737504620,"~/E-commerce/app.py"
--'  34  0  ~/E-commerce/app.py
-|4,39,34,0,1737504620,"~/E-commerce/app.py"
--'  34  0  ~/E-commerce/app.py
-|4,39,34,0,1737504620,"~/E-commerce/app.py"
--'  43  0  ~/E-commerce/app.py
-|4,39,43,0,1737503685,"~/E-commerce/app.py"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  0  ~/E-commerce/default.conf
-|4,39,1,0,1737337191,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336877,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  1  14  ~/E-commerce/default.conf
-|4,39,1,14,1737336773,"~/E-commerce/default.conf"
--'  12  50  ~/E-commerce/default.conf
-|4,39,12,50,1737336719,"~/E-commerce/default.conf"
+-'  28  17  ~/docker-compose.yml
+|4,39,28,17,1738748966,"~/docker-compose.yml"
+-'  17  14  ~/docker-compose.yml
+|4,39,17,14,1738748939,"~/docker-compose.yml"
+-'  17  14  ~/docker-compose.yml
+|4,39,17,14,1738748873,"~/docker-compose.yml"
+-'  15  15  ~/docker-compose.yml
+|4,39,15,15,1738748766,"~/docker-compose.yml"
+-'  15  15  ~/docker-compose.yml
+|4,39,15,15,1738748766,"~/docker-compose.yml"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738748756,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738748756,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738748756,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738748756,"~/default.conf"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  8  0  ~/nginx
+|4,39,8,0,1738748651,"~/nginx"
+-'  15  15  ~/docker-compose.yml
+|4,39,15,15,1738748019,"~/docker-compose.yml"
+-'  15  15  ~/docker-compose.yml
+|4,39,15,15,1738748019,"~/docker-compose.yml"
+-'  15  15  ~/docker-compose.yml
+|4,39,15,15,1738748019,"~/docker-compose.yml"
+-'  15  15  ~/docker-compose.yml
+|4,39,15,15,1738748019,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738747997,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738747997,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738747997,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738747997,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738747997,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738747997,"~/docker-compose.yml"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  1  0  ~/default.conf
+|4,39,1,0,1738747966,"~/default.conf"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630847,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  5  15  ~/docker-compose.yml
+|4,39,5,15,1738630571,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  7  ~/docker-compose.yml
+|4,39,1,7,1738630554,"~/docker-compose.yml"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1738630539,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/docker-compose.yml
+	*	1738748963	0
+	"	28	17
+	^	28	18
+	.	28	17
+	+	9	0
+	+	5	16
+	+	37	14
+	+	28	8
+	+	17	8
+	+	28	17
+
+> ~/default.conf
+	*	1738748754	0
+	"	1	0
+	^	1	0
+
+> ~/Dockerfile
+	*	1738630536	0
+	"	1	0
+
+> ~/app.py
+	*	1738629011	0
+	"	13	80
+	^	13	81
+	.	13	80
+	+	4	22
+	+	7	38
+	+	12	43
+	+	13	80
+
+> ~/requirements.txt
+	*	1738628751	0
+	"	5	4
+	^	5	5
+	.	5	4
+	+	5	4
 
 > ~/E-commerce/default.conf
 	*	1737505911	0

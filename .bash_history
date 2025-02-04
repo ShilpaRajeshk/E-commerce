@@ -409,3 +409,156 @@ sudo docker compose down
 clear
 vi default.conf 
 sudo docker compose up
+clear
+mkdir new one
+git status
+git init
+clear
+git initi
+git init
+clear
+git pull origin master
+git remote --list
+clear
+git remote set-url origin https://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@github.com/ShilpaRajeshk/E-commerce
+clear
+git remote -v
+clear
+git remote set-url origin https://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@github.com/ShilpaRajeshk/E-commerce
+clear
+git remote add origin https://github.com/ShilpaRajeshk/E-commerce.git
+git remote -v
+git remote set-url origin https://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@github.com/ShilpaRajeshk/E-commerce
+clear
+git remote -v
+clear
+git pull origin master
+clear
+ls
+clear
+git add .
+clear
+git commit -m "first commit"
+clear
+git status
+clear
+ls
+cd E-commerce/
+ls
+cd ..
+cd new/
+clear
+ls
+clear
+git pull origin master
+clear
+ls
+cd ..
+ls
+rm E-commerce/
+rm -rf E-commerce/
+ls
+clear
+ls -ltr
+clear
+rm -rf new one
+ls
+clear
+git status
+clear
+sudo docker compose up 
+clear
+sudo docker compose down
+clear
+sudo docker compose up 
+clear
+sudo docker ps
+docker rm postgres:12 
+sudo docker rm postgres:12
+sudo docker rm f9fb6cfddd1e
+sudo docker stop f9fb6cfddd1e
+sudo docker rm f9fb6cfddd1e
+sudo docker ps
+clear
+sudo docker ps
+sudo docker stop 560707d756f3
+sudo docker rm 560707d756f3
+sudo docker stop c5ce9432d5b0
+sudo docker rm c5ce9432d5b0
+clear
+sudo docker ps
+clear
+sudo docker compose down
+clear
+sudo docker compose up
+clear
+vi default.conf 
+ls
+vi default.conf 
+clear
+sudo docker ps
+clear
+sudo docker compose down
+clear
+ls
+python app.py
+python3 app.py
+clear
+ls
+vi requirements.txt 
+vi app.py 
+python3 app.py 
+vi docker-compose.yml 
+sudo docker-compose build
+sudo docker compose build
+sudo docker compose up
+sudo docker images
+sudo docer ps -a
+sudo docker rmi -f $(docker image ls -a -q)
+sudo docker rmi -f $(sudo docker image ls -a -q)
+clear
+sudo docker images
+clear
+sudo docker compose down
+sudo docker compose build
+clear
+sudo docker compose up
+sudo docker image prune -a
+clear
+sudo docker compose build
+sudo docker compose up
+sudo dokcerimages
+sudo docker images
+clear
+sudo docker image prune -a
+clear
+sudo docker images
+sudo docker compose 
+sudo docker images
+sudo docker compose down
+sudo docker images
+clear
+ls
+vi Dockerfile 
+vi docker-compose.yml 
+sudo docker image prune 
+clear
+sudo docker compose up
+clear
+sudo docker images
+vi docker-compose.yml 
+clear
+sudo docker kill redis
+clear
+sudo docker compose down
+clear
+sudo docker compose up --d
+clear
+sudo docker compose up -d
+sudo docker kill redis
+clear
+git status
+git add .
+git coomit -m "redis added succeffully"
+git commit -m "redis added succeffully"
+git push origin master
