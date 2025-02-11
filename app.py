@@ -13,7 +13,7 @@ def home():
     return "Hello from Bengaluru!, This webpage has been viewed "+counter+" time"
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000)
+    app.run(host='0.0.0.0', port=5000)
 # app.config['SQLALCHEMY_DATABASE_URI'] = environ.get('DB_URL')
 # db = SQLAlchemy(app)
 

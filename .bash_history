@@ -562,3 +562,196 @@ git add .
 git coomit -m "redis added succeffully"
 git commit -m "redis added succeffully"
 git push origin master
+clear
+ls
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker compose build
+clear
+sudo docker ps
+sudo docker ps -a
+sudo docker rm 9e114523d87f 
+sudo docker ps -a
+sudo docker compose up
+sudo docker compose build
+sudo docker compose down
+clear
+ls
+vi nginx/
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+clear
+git push origin master
+clear
+git push --force
+git push --set-upstream origin master
+git commit --no-verify
+git commit -a
+git commit --no-verify
+git add .
+git commit --no-verify
+git push --set-upstream origin master
+clear
+git branch
+git branch -c newbranch
+git branch
+git checkout newbranch 
+ls
+git push origin head
+git push origin 
+git push --set-upstream origin newbranch
+clear
+git checkout master
+git branch
+clear
+git push origin master
+git commit --amend --all
+CLEAR
+cler
+clear
+git commit --amend --all
+git push
+git push --set-upstream origin master
+clear
+git log
+clear
+git push origin
+git push --set-upstream origin master
+git push origin master
+clear
+mkdir e-commerce
+cd e-commerce/
+ls
+clear
+git pull origin master
+ls
+git fetch origin master
+clear
+cd ..
+mv e-commerce/ .
+mv ./e-commerce/
+ls
+cd e-commerce/
+ls
+clear
+cd ..
+ls
+clear
+git status
+git push origin main
+git branch -m master maingit branch -m master maingit branch -m master main
+git branch -m master main
+git branch
+clear
+git log --online
+git log --oneline
+git push origin main
+git pull
+clear
+git pull -u origin main
+clear
+git pull origin main
+git config pull.rebase false
+clear
+git pull origin main
+git push -u origin main
+clear
+git push --force-with-lease 
+git push --set-upstream origin main
+git pull
+git branch --set-upstream-to=origin/main main
+git pull
+git push --set-upstream origin main
+git pull
+ls
+rm e-commerce/
+rm -rf e-commerce/
+ls
+vi README.md 
+rm README.md 
+ls
+clear
+git pull
+git remote -v
+clear
+git push -u origin main -f
+clear
+ls -la
+history
+git branch -m master
+git branch
+clear
+git push origin master
+git remote -v
+clear
+ls
+git branch
+clear
+ls
+vi default.conf 
+clear
+vi docker-compose.yml 
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker compose build
+clear
+sudo docker ps
+sudo docker ps -a
+clear
+sudo docker compose up
+sudo docker compose down
+clear
+ls
+vi default.conf 
+vi app.py 
+vi docker-compose.yml 
+sudo docker compose build
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker compose build
+sudo docker compose up
+clear
+sudo docker compose down
+sudo docker compose build -d
+sudo docker compose build --d
+sudo docker compose --build -d
+sudo docker compose up --build -d
+clear
+sudo docker logs flask_app
+sudo docker compose up  -d
+sudo docker logs flask_app
+sudo docker logs nginx
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose down
+clear
+sudo docker compose up  -d
+sudo docker ps
+sudo docker exec -it nginx sh
+sudo docker ps
+sudo docker compose down
+clear
+ls
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose up  -d
+vi docker-compose.yml 
+sudo docker compose up  -d
+sudo docker compose down
+clear
+sudo docker compose up  -d
+sudo nginx logs
+sudo docker nginx logs
+sudo docker logs nginx
+sudo docker ps
+clear
+vi default.conf 
+vi docker-compose.yml 
+vi app.py 

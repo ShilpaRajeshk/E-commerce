@@ -6,6 +6,7 @@ services:
     container_name: redis
     ports:
       - '6379:6379'
+    
 
   nginx: 
     image: nginx:1.15
@@ -14,23 +15,30 @@ services:
       - ./:/var/www
       - ./default.conf:/etc/nginx/conf.d/default.conf
     ports:
-      - 80:80 
+      - "80:80" 
     restart: always
+    depends_on:
+      - flask_app
+  
+
 
   flask_app:
     build: 
       dockerfile: Dockerfile 
     container_name: flask_app
-    command: gunicorn --bind 0.0.0.0:8000 --workers 1 app:app
+    command: gunicorn --bind 0.0.0.0:5000 --workers 2 app:app
     # volumes:
     #   - ./:/var/www 
-    ports:
-      - "8000:8000"
+    expose:
+      - "5000"
+        #ports:
+        #- "80:80"
     environment:
       - DB_URL=postgresql://postgres:postgres@flask_db:5432/postgres
     links:
       - flask_db
     restart: always
+    
 
 
   flask_db:
@@ -44,4 +52,5 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_DB=postgres 
       - POSTGRES_PORT=5432 
+    
  
