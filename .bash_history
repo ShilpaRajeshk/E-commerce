@@ -562,3 +562,357 @@ git add .
 git coomit -m "redis added succeffully"
 git commit -m "redis added succeffully"
 git push origin master
+clear
+ls
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker compose build
+clear
+sudo docker ps
+sudo docker ps -a
+sudo docker rm 9e114523d87f 
+sudo docker ps -a
+sudo docker compose up
+sudo docker compose build
+sudo docker compose down
+clear
+ls
+vi nginx/
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+clear
+git push origin master
+clear
+git push --force
+git push --set-upstream origin master
+git commit --no-verify
+git commit -a
+git commit --no-verify
+git add .
+git commit --no-verify
+git push --set-upstream origin master
+clear
+git branch
+git branch -c newbranch
+git branch
+git checkout newbranch 
+ls
+git push origin head
+git push origin 
+git push --set-upstream origin newbranch
+clear
+git checkout master
+git branch
+clear
+git push origin master
+git commit --amend --all
+CLEAR
+cler
+clear
+git commit --amend --all
+git push
+git push --set-upstream origin master
+clear
+git log
+clear
+git push origin
+git push --set-upstream origin master
+git push origin master
+clear
+mkdir e-commerce
+cd e-commerce/
+ls
+clear
+git pull origin master
+ls
+git fetch origin master
+clear
+cd ..
+mv e-commerce/ .
+mv ./e-commerce/
+ls
+cd e-commerce/
+ls
+clear
+cd ..
+ls
+clear
+git status
+git push origin main
+git branch -m master maingit branch -m master maingit branch -m master main
+git branch -m master main
+git branch
+clear
+git log --online
+git log --oneline
+git push origin main
+git pull
+clear
+git pull -u origin main
+clear
+git pull origin main
+git config pull.rebase false
+clear
+git pull origin main
+git push -u origin main
+clear
+git push --force-with-lease 
+git push --set-upstream origin main
+git pull
+git branch --set-upstream-to=origin/main main
+git pull
+git push --set-upstream origin main
+git pull
+ls
+rm e-commerce/
+rm -rf e-commerce/
+ls
+vi README.md 
+rm README.md 
+ls
+clear
+git pull
+git remote -v
+clear
+git push -u origin main -f
+clear
+ls -la
+history
+git branch -m master
+git branch
+clear
+git push origin master
+git remote -v
+clear
+ls
+git branch
+clear
+ls
+vi default.conf 
+clear
+vi docker-compose.yml 
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker compose build
+clear
+sudo docker ps
+sudo docker ps -a
+clear
+sudo docker compose up
+sudo docker compose down
+clear
+ls
+vi default.conf 
+vi app.py 
+vi docker-compose.yml 
+sudo docker compose build
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker compose build
+sudo docker compose up
+clear
+sudo docker compose down
+sudo docker compose build -d
+sudo docker compose build --d
+sudo docker compose --build -d
+sudo docker compose up --build -d
+clear
+sudo docker logs flask_app
+sudo docker compose up  -d
+sudo docker logs flask_app
+sudo docker logs nginx
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose down
+clear
+sudo docker compose up  -d
+sudo docker ps
+sudo docker exec -it nginx sh
+sudo docker ps
+sudo docker compose down
+clear
+ls
+vi default.conf 
+vi docker-compose.yml 
+sudo docker compose up  -d
+vi docker-compose.yml 
+sudo docker compose up  -d
+sudo docker compose down
+clear
+sudo docker compose up  -d
+sudo nginx logs
+sudo docker nginx logs
+sudo docker logs nginx
+sudo docker ps
+clear
+vi default.conf 
+vi docker-compose.yml 
+vi app.py 
+clear
+ls
+vi docker-compose.yml 
+clear
+sudo docker compose build
+clear
+sudo docker ps
+clear
+sudo docker ps
+sudo docker compose down
+sudo docker ps
+clear
+sudo docker compose up
+[200~sudo lsof -i :80~
+sudo lsof -i :80
+clear
+vi docker-compose.yml 
+sudo docker ps
+clear
+sudo docker compose down
+sudo docker compose up
+clear
+vi docker-compose.yml 
+sudo docker compose down
+sudo docker compose up
+clear
+sudo docker compose down
+clear
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+clear
+sudo docker compose down
+clear
+sudo docker compose --build -d
+sudo docker compose up --build -d
+df -h
+clear
+df -h
+docker system prune -a --volumes
+sudo docker system prune -a --volumes
+clear
+df -h
+clear
+sudo docker compose up --build -d
+clear
+docker logs flask_app
+clear
+sudo docker logs flask_app
+docker exec -it nginx sh
+clear
+sudo docker exec -it nginx sh
+clear
+sudo docker compose down
+clear
+sudo docker compose up
+sudo docker compose down
+clear
+vi default.conf 
+vi app.py
+vi docker-compose.yml 
+clear
+sudo docker compose down
+sudo docker compose up
+sudo docker compose down
+clear
+git status
+git add .
+git commit -m "exposed port to default port 80"
+clear
+branch
+clear
+git status
+git branch
+clear
+git status
+clear
+git push origin master
+clear
+git push origin master
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ShilpaRajeshk/E-commerce/'
+clear
+git push origin master
+git credential reject https://github.com
+git push origin master
+clear
+https://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@github.com/ShilpaRajeshk/E-commerce
+clear
+git remote set-url origin https://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@github.com/ShilpaRajeshk/E-commerce
+git push origin master
+clear
+git remote set-url origin https://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@github.com/ShilpaRajeshk/E-commerce
+git push origin master
+clear
+ls
+vi docker-compose.yml 
+sudo docker compose up
+clear
+docker compose down
+sudo docker compose down
+clear
+python app.py
+python3 app.py
+clear
+ls
+vi default.conf 
+vi prometheus.yml
+clear
+cat docker-compose.yml 
+clear
+cat prometheus.yml 
+clear
+docker compose up
+sudo docker compose up
+clear
+sudo docker compose down
+cat docker-compose.yml 
+clear
+vi docker-compose.yml 
+cat docker-compose.yml 
+vi docker-compose.yml 
+clear
+cat docker-compose.yml 
+sudo docker compose down
+clear
+ls
+vi docker-compose.yml 
+sudo ocker compose up
+sudo docker compose up
+vi docker-compose.yml 
+clear
+sudo docker compose down
+vi docker-compose.yml 
+sudo docker compose down
+clear
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+clear
+cat docker-compose.yml 
+sudo docker compose down
+clear
+sudo docker compose up
+clear
+sudo docker compose down
+clear
+ls
+cat prometheus.yml 
+cat docker-compose.yml 
+vi prometheus.yml 
+clear
+sudo docker compose up
+clear
+sudo docker compose down
+clear
