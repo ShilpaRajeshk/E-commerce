@@ -755,3 +755,164 @@ clear
 vi default.conf 
 vi docker-compose.yml 
 vi app.py 
+clear
+ls
+vi docker-compose.yml 
+clear
+sudo docker compose build
+clear
+sudo docker ps
+clear
+sudo docker ps
+sudo docker compose down
+sudo docker ps
+clear
+sudo docker compose up
+[200~sudo lsof -i :80~
+sudo lsof -i :80
+clear
+vi docker-compose.yml 
+sudo docker ps
+clear
+sudo docker compose down
+sudo docker compose up
+clear
+vi docker-compose.yml 
+sudo docker compose down
+sudo docker compose up
+clear
+sudo docker compose down
+clear
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+clear
+sudo docker compose down
+clear
+sudo docker compose --build -d
+sudo docker compose up --build -d
+df -h
+clear
+df -h
+docker system prune -a --volumes
+sudo docker system prune -a --volumes
+clear
+df -h
+clear
+sudo docker compose up --build -d
+clear
+docker logs flask_app
+clear
+sudo docker logs flask_app
+docker exec -it nginx sh
+clear
+sudo docker exec -it nginx sh
+clear
+sudo docker compose down
+clear
+sudo docker compose up
+sudo docker compose down
+clear
+vi default.conf 
+vi app.py
+vi docker-compose.yml 
+clear
+sudo docker compose down
+sudo docker compose up
+sudo docker compose down
+clear
+git status
+git add .
+git commit -m "exposed port to default port 80"
+clear
+branch
+clear
+git status
+git branch
+clear
+git status
+clear
+git push origin master
+clear
+git push origin master
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/ShilpaRajeshk/E-commerce/'
+clear
+git push origin master
+git credential reject https://github.com
+git push origin master
+clear
+https://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@github.com/ShilpaRajeshk/E-commerce
+clear
+git remote set-url origin https://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@github.com/ShilpaRajeshk/E-commerce
+git push origin master
+clear
+git remote set-url origin https://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@github.com/ShilpaRajeshk/E-commerce
+git push origin master
+clear
+ls
+vi docker-compose.yml 
+sudo docker compose up
+clear
+docker compose down
+sudo docker compose down
+clear
+python app.py
+python3 app.py
+clear
+ls
+vi default.conf 
+vi prometheus.yml
+clear
+cat docker-compose.yml 
+clear
+cat prometheus.yml 
+clear
+docker compose up
+sudo docker compose up
+clear
+sudo docker compose down
+cat docker-compose.yml 
+clear
+vi docker-compose.yml 
+cat docker-compose.yml 
+vi docker-compose.yml 
+clear
+cat docker-compose.yml 
+sudo docker compose down
+clear
+ls
+vi docker-compose.yml 
+sudo ocker compose up
+sudo docker compose up
+vi docker-compose.yml 
+clear
+sudo docker compose down
+vi docker-compose.yml 
+sudo docker compose down
+clear
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+vi docker-compose.yml 
+sudo docker compose up
+clear
+cat docker-compose.yml 
+sudo docker compose down
+clear
+sudo docker compose up
+clear
+sudo docker compose down
+clear
+ls
+cat prometheus.yml 
+cat docker-compose.yml 
+vi prometheus.yml 
+clear
+sudo docker compose up
+clear
+sudo docker compose down
+clear
