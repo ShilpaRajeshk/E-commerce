@@ -916,3 +916,128 @@ sudo docker compose up
 clear
 sudo docker compose down
 clear
+git status
+vi docker-compose.yml 
+git add .
+git commit -m "Prometheus andGrafana is up"
+git push origin master
+clear
+git branch
+git push origin master
+clear
+git config --global commit.gpgsign
+git commit -S -m "Prometheus grafana up"
+git push origin master
+git push  main
+git push origin main
+git push master
+clear
+git push origin master
+clear
+ls
+sudo docker compose up
+clear
+sudo docker compose down
+clear
+vi docker-compose.yml 
+ls
+vi default.conf 
+mkdir certs
+cd certs/
+openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout certs/privkey.pem -out certs/fullchain.pem
+ls
+openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout certs/privkey.pem -out certs/fullchain.pem
+clear
+openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout certs/privkey.pem -out certs/fullchain.pem
+cd ..
+rm -rf cers
+rm -rf certs
+ls
+mkdir -p certs
+cd certs/
+cd ..
+openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout certs/privkey.pem -out certs/fullchain.pem
+cd certs
+ls
+cd ..
+clear
+ls -l certs/
+chmod 755 certs
+ls -l certs/
+clear
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker logs nginx
+sudo docker compose up -d
+sudo docker logs nginx
+sudo docker compose down
+clear
+vi default.conf 
+sudo docker-compose up -d --force-recreate --no-deps nginx
+sudo docker compose up -d --force-recreate --no-deps nginx
+sudo docker ps
+docker logs nginx
+sudo docker logs nginx
+clear
+sudo docker compose up -d
+sudo docker ps
+clear
+sudo docker logs nginx
+sudo docker compose down
+clear
+ls
+vi docker-compose.yml 
+mv defaut.conf nginx.conf
+mv default.conf nginx.conf
+ls
+clear
+vi docker-compose.yml 
+clear
+sudo docker compose up -d
+sudo docker logs nginx
+sudo docker compose down
+clear
+vi docker-compose.yml 
+sudo docker compose up -d
+sudo docker logs nginx
+sudo docker compose down
+clear
+sudo docker compose up
+sudo docker compose down
+clear
+sudo docker compose up d
+sudo docker compose up -d
+sudo docker logs nginx
+sudo docker compose down
+clear
+sudo docker compose exec nginx nginx -T
+sudo docker logs nginx
+sudo docker compose up -d
+clear
+sudo docker compose exec nginx nginx -T
+sudo docker ps -a |grep nginx
+curl -v http://localhost
+clear
+curl -v https://localhost --insecure
+docker exec -it nginx ls -l /etc/nginx/ssl/
+sudo docker exec -it nginx ls -l /etc/nginx/ssl/
+docker exec -it nginx nginx -T | grep ssl_certificate
+sudo docker exec -it nginx nginx -T | grep ssl_certificate
+sudo docker compose down
+clear
+vi nginx
+ls
+vi nginx.conf 
+cat nginx.conf 
+clear
+sudo docker compose up
+clear
+sudo docker compose up -d
+curl -v https://3.90.33.33 --insecure
+clear
+nslookup yourdomain.com
+cat docker-compose.yml 
+clear
+sudo docker compose down
+clear
